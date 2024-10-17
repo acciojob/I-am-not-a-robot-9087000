@@ -1,4 +1,3 @@
-//your code here
 let button = document.getElementById('reset');
 let randomsequence=document.getElementById('random-sequence');
 let arrayOfImages = document.getElementsByClassName('images');
